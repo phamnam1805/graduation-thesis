@@ -6,7 +6,7 @@
 - [Circuit](https://github.com/phamnam1805/private-dao-circuits)
 - [Contract](https://github.com/phamnam1805/private-dao-contract)
 - [Application server](https://github.com/phamnam1805/private-dao-application-server)
-- [Application client]()
+- [Application client](https://github.com/phamnam1805/private-dao-application-client)
 
 ## Document
 
